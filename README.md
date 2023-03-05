@@ -14,15 +14,15 @@ Hi, My name is Michał Witoń and I am a master of management. I graduated from 
 # Tech Skills
 
 - SQL
-- 
+
 - DevTools
-- 
+
 - Softwore Testing
-- 
+
 - Creating test cases
-- 
+
 - Reporting bugs
-- 
+
 - SCRUM
 
 # Curses

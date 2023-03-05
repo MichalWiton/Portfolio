@@ -22,7 +22,7 @@ SCRUM</br></p>
 
 # Curses
 
-[Akademia Testowania testuj.pl](https://testuj.pl/).
+**[Akademia Testowania testuj.pl](https://testuj.pl/)**
 [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/).
 [Kurs SQL od podstaw](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/).
 [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/).

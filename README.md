@@ -44,5 +44,13 @@ Hi, My name is Michał Witoń and I am a master of management. I graduated from 
 
 - [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 
+# Books 
+
+- Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+
+- Rafał Pawlak - Testowanie oprogramowania
+
+- Karolina Pawłowska, Natalia Pawlak - Podróż przez świat testowania
+
 
 My Tester's Portfolio

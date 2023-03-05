@@ -17,8 +17,11 @@ SDK Platform Tools - tool for Adnroid</br></p>
 DevTools</br>
 Softwore Testing</br>
 Creating test cases</br>
-Reporting bugs</br></p>
+Reporting bugs</br>
+SCRUM</br></p>
 
+# Curses
 
+[Akademia Testowania testuj.pl](https://testuj.pl/)
 
 My Tester's Portfolio

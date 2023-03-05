@@ -6,10 +6,13 @@ Hi, My name is Michał Witoń and I am a master of management. I graduated from 
 
 # Tools
 
-<p>- Postman - tool for testing rest api</br>
-- Jira, TestRail, Mantis, Trello, Test Link - tools for issue tracking and management projects</br>
-- Bug Magnet - Exploratory testing assistant for browser</br>
-- SDK Platform Tools - tool for Adnroid</br></p>
+- Postman - tool for testing rest api
+ 
+- Jira, TestRail, Mantis, Trello, Test Link - tools for issue tracking and management projects
+
+- Bug Magnet - Exploratory testing assistant for browser
+
+- SDK Platform Tools - tool for Adnroid
 
 # Tech Skills
 

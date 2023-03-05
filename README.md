@@ -54,4 +54,4 @@ Hi, My name is Michał Witoń and I am a master of management. I graduated from 
 
 # My bug reports
 
-- [Bug report for for ecommerce site mediamarkt.pl](https://docs.google.com/spreadsheets/d/1FheZcjUe09GFM0LiujK0eh-jpnkq6CEm/edit?usp=share_link&ouid=108633005404849049005&rtpof=true&sd=true) - tests done as part of learning and self-development
+- [Bug report for ecommerce site mediamarkt.pl](https://docs.google.com/spreadsheets/d/1FheZcjUe09GFM0LiujK0eh-jpnkq6CEm/edit?usp=share_link&ouid=108633005404849049005&rtpof=true&sd=true) - tests done as part of learning and self-development

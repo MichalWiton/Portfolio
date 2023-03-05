@@ -13,12 +13,12 @@ SDK Platform Tools - tool for Adnroid</br></p>
 
 # Tech Skills
 
-<p>SQL</br>
-DevTools</br>
-Softwore Testing</br>
-Creating test cases</br>
-Reporting bugs</br>
-SCRUM</br></p>
+<p>- SQL</br>
+- DevTools</br>
+- Softwore Testing</br>
+- Creating test cases</br>
+- Reporting bugs</br>
+- SCRUM</br></p>
 
 # Curses
 
